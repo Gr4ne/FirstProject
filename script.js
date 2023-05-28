@@ -1,4 +1,4 @@
-console.log("сайт раюотает!");
+console.log("сайт работает!");
 
 const nav_toggle = document.querySelector(".nav-toggle");
 const menu = document.getElementById("menu");
