@@ -1,3 +1,5 @@
+console.log("сайт раюотает!");
+
 const nav_toggle = document.querySelector(".nav-toggle");
 const menu = document.getElementById("menu");
 
